@@ -1,0 +1,72 @@
+Dear customer,
+
+You will need to submit the ID again for this account as well to enable SSH. Unfortunately we do not know what script was hacked. Because this is all 3rd party code, we can not go through the account & secure it as we do not know what should & should not be on the account.
+
+Database-driven sites are vulnerable to hackers, who can (and do) exploit bugs in those programs to gain unauthorized access to your site. The following are some things you can do to help secure your site.
+
+Set register_globals to OFF
+
+1. Turn off Display Error/Warning Messages. Set error_display to ZERO
+
+2. Never run unescaped queries
+
+3. Validate all user inputs. Items on Forms, in URLs and so on
+
+4. Move config.php and files containing Passwords to MySQL to a secure directory outside of the public_html folder
+
+5. Change permissions on any configuration files containing private information such as database passwords or email accounts to 440 so they cannot be written to and so there is no world permissions. If you need to edit them at a later time you will need to change it back to 640
+
+6. Access Control: You don't want the user to have access to any Admin function or Clean up scripts
+
+7. The .htaccess file is your friend. Use it to deny access to your site or files. (We also have an easy IP Deny Manager tool in the cpanel)
+
+8. PHP can parse any valid script, whether it is called foo.php, very_long_name.php.php.php, or even deleteme.bat
+
+Using the default extension of ".php" means that before your hackers start you have already told them you are using PHP
+
+As mentioned, you can use any filename for your scripts - if you are using PHP for every script on your server, consider using the ".html" extension for your scripts and making PHP parse HTML files You can change your file extension by adding this line to the .htaccess or turn it on via the Apache Handlers in the cPanel (AddHandler application/x-httpd-php5 .html)
+
+To protect against SQL injection attacks Sometimes hackers will try to screw up your database by inserting SQL code into your form input fields. They can for example, insert code that could delete all the data in your database!
+
+To protect against this, you need to use this PHP function:
+
+mysql_real_escape_string()
+
+This function escapes (makes safe) any special characters in a string (programmers call text a 'string') for MySQL.
+
+9. Example: $name = $_REQUEST['name']; $safe_name = mysql_real_escape_string($name); Now you know the variable $safe_name, is safe to use with your SQL code.
+
+10. Keep the PHP code to yourself. If anyone can see it they can expliot vulnerabilities.
+
+You should take care to store your PHP files and the necessary passwords to access your MySQL databases in protected files or folders.
+
+The easy way to do this is to put the database access passwords in a file with a .inc.php extension (such as config.inc.php), and then place this file in a directory which is above the server's document root (and thus not accessible to surfers of your site).
+Then, refer to the file in your PHP code with a require_once command.
+
+By doing things this way, your PHP code can read the included file easily but hackers will find it almost impossible to hack your site.
+
+You can find more information about hardening your PHP scripts at: PHPsec.org
+
+Also, for security purposes, you can refer to these two websites:
+
+http://php-ids.org/
+http://blogsecurity.net/
+
+You can find more information about hardening your PHP scripts at:
+
+http://phpsec.org/projects/guide/
+
+Thank you,
+Ted
+Level 1 Tech Support Engineer
+Hostmonster.com
+866.573.4678
+
+Most questions can be answered by articles in our forum, knowledgebase, and video tutorials:
+
+Forum:               http://www.hostmonsterforum.com
+Knowledgebase:       http://helpdesk.hostmonster.com/index.php/kb/
+Tutorials:           http://www.hostmonster.com/tutorials/
+Server Status:       http://serverstatus.hostmonster.com/
+
+When you have a new question or issue, please open a new support ticket.

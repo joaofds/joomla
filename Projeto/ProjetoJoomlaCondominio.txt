@@ -1,0 +1,92 @@
+Projeto de condomínio no Joomla com geração de boleto e 2a. via do boleto
+
+Miguel - Technew <miguel@technewinformatica.com.br> 
+
+Senhor Ribamar! Preciso desenvolver um aplicativo WEB para controle de condomínios. Tipo cadastro, notícias do condomínio, emissão de boletos e emissão de boletos 2º via.
+
+Tem como fazer no joomla?
+
+Atenciosamente
+
+Miguel Gallo
+
+-- 
+
+Technew – Soluções em Informática
+Rua Ceci, 2257, Centro, C. da Canoa.
+Fone: 51 - 3502.6639.
+www.technewinformatica.com.br
+
+
+Boletos
+http://extensions.joomla.org/extension/j-boleto-weber-ti
+Licensa GPL ilimitada com um ano de suporte
+
+R$ 139,00
+ou 12x de R$ 13,96
+
+Aqui mais detalhes:
+http://weber.eti.br/produtos/virtuemart-2-0/j-boleto-weber-ti-componente-de-boletos-para-joomla-produto.html
+
+Dicas:
+http://slides.com/luizwbr/jboleto-joomladaysp-2013/embed
+
+
+Gerador de boleto online
+https://gerencianet.com.br/gerador-de-boleto-online
+
+http://destinonegocio.com/br/financas/conheca-4-plataformas-para-gerar-boleto-bancario/
+
+Boletos Grátis
+http://cobregratis.com.br/
+https://www.boletocloud.com/
+https://boletosimples.com.br/
+https://www.asaas.com/
+
+http://quiteseuboleto.com/
+
+Dica sobre segurança
+http://destinonegocio.com/br/negocios-online/pagamento-online-conheca-os-servicos-mais-seguros/2/
+https://moip.com.br/blog/segunda-28-cuidado-com-as-fraudes-de-boleto-bancario/
+
+Cursos
+Pagamento por boleto bancário em lojas virtuais
+http://www.cursodeecommerce.com.br/blog/pagamento-por-boleto-bancario-em-lojas-virtuais/
+
+Softwares de Lojas
+http://imasters.com.br/artigo/23599/e-commerce/top-10-softwares-de-comercio-eletronico-de-codigo-aberto-joomla-e-drupal--parte-01/
+http://www.lojavirtual.org/loja-virtual-gratis-selecionamos-7-melhores-para-voce/
+
+
+Loja Virtual Grátis
+http://www.loja2.com.br/
+https://lojaintegrada.com.br/
+http://www.lojafree.com.br/
+http://www.tanlup.com/sell
+http://www.elo7.com.br/quero-vender
+http://www.bpg.com.br/home/
+
+Outro projeto?
+
+Freela para projeto em Joomla na Além da Ideia em São Paulo
+por Post do Leitor
+
+O cliente precisa disponibilizar um arquivo (pdf ou outro formato) da 2ª via de boleto p/ os condôminos que perderam a 1ª via. Vaga e Oportunidades? Siga @falafreela
+
+A Além da Idéia, agência de criação on/offline de São Paulo procura por um programador frellancer para desenvolver uma solução de emissão de boletos para uma administradora de condomínios. O site do cliente já está desenvolvido e publicado, estamos entrando na 2ª fase do projeto.
+
+Necessidade: precisam disponibilizar um arquivo (pdf ou outro formato) da 2ª via de boleto p/ os condôminos que perderam a 1ª via. Preciso desenvolver essa ferramenta para geração de 2ª via de boleto e implementa-la no site. Hoje quando o condômino precisa desta 2ª via tem que ligar na empresa e solicitar, preciso automatizar este processo.  Atualmente eles tem um sistema interno que gera arquivos .txt com os dados deste boleto, preciso transformar isso em arquivo .pdf para ele baixar.
+
+Idéia pretendida:
+
+    Criar ferramenta no admin do site para meu cliente poder editar qdo for necessário (ex. editar os campos necessários p/ liberação do boleto)
+    Disponibilizar ao condômino uma área de acesso exclusivo onde ele informaria alguns dados (por segurança) e após valida-los, libera o pdf p/ download
+    Esse boleto só pode ser disponibilizado até 10 dias após a data de pagamento oficial, após este prazo só entrando em contato com a administradora por telefone.
+
+Prazo: o quanto antes possível, mas no máximo no final deste mês (outubro/11).
+
+Verba: análise das propostas.
+
+Mais detalhes por email ou por telefone: 11 5631-3565 / 9967-6564
+Por: Rodrigo Dovighi
+

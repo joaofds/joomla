@@ -1,0 +1,10 @@
+Segurança
+
+Vulnerabilidade de Extensões
+
+http://docs.joomla.org/Vulnerable_Extensions_List
+
+Exploits em Geral
+http://www.milw0rm.com/
+
+Antes de instalar extensões de terceiros seria recomendado varrer estes sites para ver se o que estamos entregando ao cliente não está furado.

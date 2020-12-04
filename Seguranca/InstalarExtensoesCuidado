@@ -1,0 +1,10 @@
+Fui desinstalar agora e lembrei daquele alerta:
+
+Sempre que for instalar alguma extensão num site em produção, faça antes um backup completo, pelo menos do banco.
+Pode dar zebra e agora quase zebrou.
+Não consegui desinstalar pelo Joomla.
+Então vamos manualmente.
+O bicho deixa pedaços no administrator/components/com_comments
+No plugins também deixa dois arquivos.
+Aprendi outra: Softwate em Alpha não se instala em site em produção, só local para teste.
+

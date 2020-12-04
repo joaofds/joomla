@@ -1,0 +1,37 @@
+Dicas de segurança:
+
+1) Escolher o melhor Host do mercado, não o mais barato;
+2) Arquivos usam permissão 0644 e diretórios 0755;
+3) Utilizar sempre a última versão do CMS e das extensões;
+4) Instalar extensões conhecidas, que possuam um bom "core" de desenvolvimento; e
+5) Ter a convicção de que não existe sistema seguro, a diferença está no tempo de resposta.
+
+Com relação aos ataques em sites usando Joomla:
+O Joomla possui uma equipe que em 4 horas consegue lançar uma versão estável do produto após uma invasão.
+
+A maioria dos ataques ocorre pelo fato dos arquivos estarem com 777 ou usuário instalou componentes "não confiaveis".
+
+Existe o Security Strike no Joomla! que cuida somente deste assunto
+http://www.semecd.com.br/portal/index.php?option=com_newsfeeds&view=newsfeed&id=1&feedid=1&Itemid=18
+
+Para verificar sites que foram hackeados/defaced:
+http://www.zone-h.org/archive?zh=1
+
+-------------------------
+
+
+Recomendações sobre segurança
+
+- Usar senhas de no mínimo 6 caracteres. Quanto mais melhor, mas de 8 a 10 tá bom.
+- Misturar caracteres alfabéticos maiúsculas, minúsculas, números e caracteres especiais como:
+  -, _, *, $, !, %
+- Não use senhas fáceis como data de nascimento, número de identidade, nomes de filhos e cônjuges.
+- Procure não usar palavras do mundo real
+- Pense num eposódio que apenas você conhece ou lembra e forme uma frase com suas iniciais
+- Crie senhas posicionais, por exemplo: primeira letra da última fila, primeira letra da primeira fila,
+última letra da última fila, última letra da primeira fila e assim por diante.
+- Mesmo que ilógicas as senhas devem ser, para você, de fácil memorização, pois você deve evitar anotar as senhas
+- Evite usar a mesma senha para todos os esus acessos
+- Atualize com uma certa frequeência suas senhas
+
+
